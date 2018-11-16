@@ -90,7 +90,7 @@ A     B     CARRY   SUM
 ```
 This can be represented with boolean algebra like so:
 
-* `SUM = A ⊕ B`  (alternate: `A ^ B`)
+* `SUM = A ⊕ B`  (alternate: `A ^ B` or `A xor B`)
 * `CARRY = A ∧ B`  (alternate: `A && B`)
 
 

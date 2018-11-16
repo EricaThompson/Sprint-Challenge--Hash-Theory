@@ -29,7 +29,7 @@ Ticket **tickets = {
 
 Your function should output a `char **` array of strings with the entire route of your trip. For the above example, it should look like this:
 ```c
-{ "LAX", "SFO", "BHM", "FLG", "XNA", "CID", "SLC", "PIT", "ORD" }
+{ "LAX", "SFO", "BHM", "FLG", "XNA", "CID", "SLC", "PIT", "ORD", "NONE" }
 ```
 
 Your solution should run in linear time. You can assume that your function will always be handed a valid ticket chain as input. 

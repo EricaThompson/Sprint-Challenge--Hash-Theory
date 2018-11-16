@@ -6,3 +6,10 @@ A hash table implementation has been included for you already. Your task is to g
 
 ## Rubric
 
+Both problems will be graded out of 5 points:
+
+* 1: Code attempted
+* 2: Code resembles the correct solution
+* 3: Tests pass
+* 4: Tests pass, no hash table memory leaks
+* 5: Tests pass, no hash table memory leaks, linear runtime complexity
